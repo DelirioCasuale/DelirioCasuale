@@ -1,16 +1,45 @@
-## Hi there 👋
+# Ciao! Sono Jose Alfredo Paucarchuco👋
 
-<!--
-**DelirioCasuale/DelirioCasuale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspirante Fullstack Developer | Appassionato di Sviluppo Software e Tecnologie Web 🌐
 
-Here are some ideas to get you started:
+Sono un **appassionato sviluppatore in formazione** con una forte ambizione di diventare un **Fullstack Developer**. Sto dedicando il mio tempo a padroneggiare le tecnologie chiave per costruire applicazioni robuste e moderne. Questo è lo spazio dove documento il mio percorso di apprendimento, sperimento con nuovi concetti e mostro i miei progetti.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Le mie Competenze Attuali
+
+Le mie competenze principali e le tecnologie con cui lavoro includono:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60"/>
+</p>
+
+---
+
+## 🌱 Cosa Sto Imparando / Progetti Futuri
+
+* **Approfondimento di Framework Frontend:** Concentrazione su un framework moderno come React o Vue.js per completare il set di competenze full-stack.
+* **Architettura e Design:** Studio dei principi SOLID e dei design pattern per scrivere codice pulito, modulare e manutenibile.
+* **Cloud:** Nozioni base su servizi cloud (es. AWS, Azure) per il deployment delle applicazioni.
+
+---
+
+## 🤝 Connettiamoci!
+
+Sono aperto a connessioni, opportunità di lavoro e feedback sui miei progetti. Se hai suggerimenti o vuoi parlare di tecnologia, non esitare a contattarmi!
+
+* 📧 **Email:** josealfredo.paucarchuco@gmail.com
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/josealfredo-paucarchucollacuachaqui](https://www.linkedin.com/in/josealfredo-paucarchucollacuachaqui)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkM2E5N2U1M2JjY2YwNDYxZTQ2Mzk0MjJkMWM4ZTkxNDc5ZTY3MiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L5c0J0J4f9Pj5G0R3V/giphy.gif" alt="Coding GIF" width="300"/>
+</p>
+
+---
