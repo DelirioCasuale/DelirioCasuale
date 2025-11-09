@@ -33,10 +33,17 @@ Le mie competenze principali e le tecnologie con cui lavoro includono:
 
 ## 🤝 Connettiamoci!
 
-Sono aperto a connessioni, opportunità di lavoro e feedback sui miei progetti. Se hai suggerimenti o vuoi parlare di tecnologia, non esitare a contattarmi!
+Sono aperto a connessioni, opportunità di lavoro e feedback sui miei progetti.
 
-* 📧 **Email:** josealfredo.paucarchuco@gmail.com
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/josealfredo-paucarchucollacuachaqui](https://www.linkedin.com/in/josealfredo-paucarchucollacuachaqui)
+<p align="center">
+  <a href="mailto:josealfredo.paucarchuco@gmail.com">
+    <img src="https://img.shields.io/badge/Email-josealfredo.paucarchuco@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jose-paucarchuco">
+    <img src="https://img.shields.io/badge/LinkedIn-jose__paucarchuco-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlkM2E5N2U1M2JjY2YwNDYxZTQ2Mzk0MjJkMWM4ZTkxNDc5ZTY3MiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L5c0J0J4f9Pj5G0R3V/giphy.gif" alt="Coding GIF" width="300"/>
